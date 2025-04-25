@@ -89,3 +89,5 @@ Corps de la requête (JSON) :
   "success": true,
   "message": "Cours supprimé avec succès"
 }
+
+THE END
